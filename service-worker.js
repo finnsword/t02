@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/finnsword/t02.git/precache-manifest.c608415b8f3b708ceb4ec9346b6c86e4.js"
+  "/finnsword/t02.git/precache-manifest.5e72b3454549b5acc12a45292fff5ff9.js"
 );
 
 self.addEventListener('message', (event) => {

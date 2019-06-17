@@ -1,18 +1,18 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "bd9aa62c5b5e2ed75bf6d3b8c1178f06",
+    "revision": "e762a8b1bdaa7cd9ea2b6a0483fb1f47",
     "url": "/finnsword/t02.git/index.html"
   },
   {
-    "revision": "6fadc2721c683d07b96d",
-    "url": "/finnsword/t02.git/static/css/main.2b6b29e6.chunk.css"
+    "revision": "74e9fc7dfbaf6a95b0a1",
+    "url": "/finnsword/t02.git/static/css/main.af317171.chunk.css"
   },
   {
     "revision": "32ba428a442bce32e14e",
     "url": "/finnsword/t02.git/static/js/2.249420ef.chunk.js"
   },
   {
-    "revision": "6fadc2721c683d07b96d",
+    "revision": "74e9fc7dfbaf6a95b0a1",
     "url": "/finnsword/t02.git/static/js/main.76952d61.chunk.js"
   },
   {
