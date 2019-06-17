@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "/finnsword/t02.git/static/css/main.af317171.chunk.css",
-    "main.js": "/finnsword/t02.git/static/js/main.76952d61.chunk.js",
-    "main.js.map": "/finnsword/t02.git/static/js/main.76952d61.chunk.js.map",
-    "runtime~main.js": "/finnsword/t02.git/static/js/runtime~main.224c04fb.js",
-    "runtime~main.js.map": "/finnsword/t02.git/static/js/runtime~main.224c04fb.js.map",
-    "static/js/2.249420ef.chunk.js": "/finnsword/t02.git/static/js/2.249420ef.chunk.js",
-    "static/js/2.249420ef.chunk.js.map": "/finnsword/t02.git/static/js/2.249420ef.chunk.js.map",
-    "index.html": "/finnsword/t02.git/index.html",
-    "precache-manifest.5e72b3454549b5acc12a45292fff5ff9.js": "/finnsword/t02.git/precache-manifest.5e72b3454549b5acc12a45292fff5ff9.js",
-    "service-worker.js": "/finnsword/t02.git/service-worker.js",
-    "static/css/main.af317171.chunk.css.map": "/finnsword/t02.git/static/css/main.af317171.chunk.css.map",
-    "static/media/curriculo.pdf": "/finnsword/t02.git/static/media/curriculo.a658bc78.pdf",
-    "static/media/ellp.png": "/finnsword/t02.git/static/media/ellp.67c7dd19.png",
-    "static/media/facebook.png": "/finnsword/t02.git/static/media/facebook.5a376c0c.png",
-    "static/media/git.png": "/finnsword/t02.git/static/media/git.0ba2aa20.png",
-    "static/media/kleber.png": "/finnsword/t02.git/static/media/kleber.f049e31c.png"
+    "main.css": "/t02.git/static/css/main.af317171.chunk.css",
+    "main.js": "/t02.git/static/js/main.e1b75afe.chunk.js",
+    "main.js.map": "/t02.git/static/js/main.e1b75afe.chunk.js.map",
+    "runtime~main.js": "/t02.git/static/js/runtime~main.c891d4a6.js",
+    "runtime~main.js.map": "/t02.git/static/js/runtime~main.c891d4a6.js.map",
+    "static/js/2.249420ef.chunk.js": "/t02.git/static/js/2.249420ef.chunk.js",
+    "static/js/2.249420ef.chunk.js.map": "/t02.git/static/js/2.249420ef.chunk.js.map",
+    "index.html": "/t02.git/index.html",
+    "precache-manifest.5e21e8ab10d076632c71952fc811e352.js": "/t02.git/precache-manifest.5e21e8ab10d076632c71952fc811e352.js",
+    "service-worker.js": "/t02.git/service-worker.js",
+    "static/css/main.af317171.chunk.css.map": "/t02.git/static/css/main.af317171.chunk.css.map",
+    "static/media/curriculo.pdf": "/t02.git/static/media/curriculo.a658bc78.pdf",
+    "static/media/ellp.png": "/t02.git/static/media/ellp.67c7dd19.png",
+    "static/media/facebook.png": "/t02.git/static/media/facebook.5a376c0c.png",
+    "static/media/git.png": "/t02.git/static/media/git.0ba2aa20.png",
+    "static/media/kleber.png": "/t02.git/static/media/kleber.f049e31c.png"
   }
 }
