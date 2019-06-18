@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "/t02.git/static/css/main.af317171.chunk.css",
-    "main.js": "/t02.git/static/js/main.e1b75afe.chunk.js",
-    "main.js.map": "/t02.git/static/js/main.e1b75afe.chunk.js.map",
-    "runtime~main.js": "/t02.git/static/js/runtime~main.c891d4a6.js",
-    "runtime~main.js.map": "/t02.git/static/js/runtime~main.c891d4a6.js.map",
-    "static/js/2.249420ef.chunk.js": "/t02.git/static/js/2.249420ef.chunk.js",
-    "static/js/2.249420ef.chunk.js.map": "/t02.git/static/js/2.249420ef.chunk.js.map",
-    "index.html": "/t02.git/index.html",
-    "precache-manifest.5e21e8ab10d076632c71952fc811e352.js": "/t02.git/precache-manifest.5e21e8ab10d076632c71952fc811e352.js",
-    "service-worker.js": "/t02.git/service-worker.js",
-    "static/css/main.af317171.chunk.css.map": "/t02.git/static/css/main.af317171.chunk.css.map",
-    "static/media/curriculo.pdf": "/t02.git/static/media/curriculo.a658bc78.pdf",
-    "static/media/ellp.png": "/t02.git/static/media/ellp.67c7dd19.png",
-    "static/media/facebook.png": "/t02.git/static/media/facebook.5a376c0c.png",
-    "static/media/git.png": "/t02.git/static/media/git.0ba2aa20.png",
-    "static/media/kleber.png": "/t02.git/static/media/kleber.f049e31c.png"
+    "main.css": "./static/css/main.af317171.chunk.css",
+    "main.js": "./static/js/main.5423c0ce.chunk.js",
+    "main.js.map": "./static/js/main.5423c0ce.chunk.js.map",
+    "runtime~main.js": "./static/js/runtime~main.d653cc00.js",
+    "runtime~main.js.map": "./static/js/runtime~main.d653cc00.js.map",
+    "static/js/2.249420ef.chunk.js": "./static/js/2.249420ef.chunk.js",
+    "static/js/2.249420ef.chunk.js.map": "./static/js/2.249420ef.chunk.js.map",
+    "index.html": "./index.html",
+    "precache-manifest.a28a82c143c04f482bceb6463a1d0cfa.js": "./precache-manifest.a28a82c143c04f482bceb6463a1d0cfa.js",
+    "service-worker.js": "./service-worker.js",
+    "static/css/main.af317171.chunk.css.map": "./static/css/main.af317171.chunk.css.map",
+    "static/media/curriculo.pdf": "./static/media/curriculo.a658bc78.pdf",
+    "static/media/ellp.png": "./static/media/ellp.67c7dd19.png",
+    "static/media/facebook.png": "./static/media/facebook.5a376c0c.png",
+    "static/media/git.png": "./static/media/git.0ba2aa20.png",
+    "static/media/kleber.png": "./static/media/kleber.f049e31c.png"
   }
 }
